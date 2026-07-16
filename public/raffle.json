@@ -37,5 +37,7 @@
   "theme": {
     "accent": "#8b5cf6"
   },
-  "organizer": {}
+  "organizer": {
+    "regime": "DESCENTRALIZADA"
+  }
 }
