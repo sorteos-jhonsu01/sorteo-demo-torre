@@ -10,7 +10,8 @@
     "max": 999
   },
   "startsAt": "2026-07-16T01:17:54.766Z",
-  "endsAt": "2026-08-15T01:17:54.766Z",
+  "endsAt": "2026-08-15T01:17:00.000Z",
+  "drawAt": "2026-08-23T04:00:00.000Z",
   "minSoldToDraw": 200,
   "status": "ACTIVE",
   "winner": null,
