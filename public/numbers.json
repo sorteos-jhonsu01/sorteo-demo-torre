@@ -1,6 +1,12 @@
 {
-  "version": "2026-07-16T16:43:01.411Z",
+  "version": "2026-07-16T16:50:04.861Z",
   "sold": [
+    {
+      "number": 6,
+      "buyer": "Jose S.",
+      "purchasedAt": "2026-07-16T16:46:22.968Z",
+      "verifiedAt": "2026-07-16T16:50:04.841Z"
+    },
     {
       "number": 15,
       "buyer": "Admin R.",
