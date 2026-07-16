@@ -1,0 +1,21 @@
+{
+  "slug": "sorteo-demo-torre",
+  "title": "Sorteo de computador Reacondicionado",
+  "description": "Ryzen 5 3400g Nvme 1000gb Ram 32gb",
+  "prize": "Pc Gamer Torre Cpu Gamer",
+  "priceCents": 2000000,
+  "currency": "COP",
+  "numberRange": {
+    "min": 1,
+    "max": 999
+  },
+  "startsAt": "2026-07-16T01:17:54.766Z",
+  "endsAt": "2026-08-15T01:17:54.766Z",
+  "minSoldToDraw": 200,
+  "status": "ACTIVE",
+  "winner": null,
+  "media": {},
+  "prizeItems": [],
+  "prizeTotalCents": 0,
+  "theme": {}
+}
