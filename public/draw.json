@@ -1,0 +1,13 @@
+{
+  "raffleSlug": "sorteo-demo-torre",
+  "drawnAt": "2026-11-03T00:47:19.492Z",
+  "winningNumber": 998,
+  "mechanism": "RANDOM_FROM_SOLD",
+  "winner": {
+    "number": 998,
+    "buyer": "Prueba C.",
+    "purchasedAt": "2026-07-16T19:06:46.767Z",
+    "verifiedAt": "2026-07-16T19:10:38.747Z"
+  },
+  "status": "VALID"
+}
